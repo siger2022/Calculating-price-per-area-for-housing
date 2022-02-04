@@ -1,5 +1,5 @@
 try:
-    area = int(input("Please enter the total area of an apartment: "))
+    Information = int(input("Please enter the total area of an apartment: "))
 except ValueError:
     print("invalid")
 
